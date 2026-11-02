@@ -1,0 +1,10 @@
+print("Happy_birth-day_kruikit")
+
+print("El_mejor_regalo_que_me_has_dado_es_estar_a_tu_lado")
+print("Gracias-por_todos_los_momentos_compartidos,_por_tu_amor_incondicional_y_tu_esfuerzo_constante")
+print("Que_es_el_amor?=vinculo_profundo_de_afecto_y_conexion_emocional"
+print("cumpleaños=no_es_solo_una_mardca_en_el_tiempo_si_no_la_celebracion_de_la_conciencia_y_la_oportunidad_de_reinventarse")
+print("que_cada-nuevo_ciclo_este_lleno_de_aprendizajes,_luz_y_momentos_que_fortalezcan_tu_espiritu")
+print("y_que_mejor_manera_de_ejecutarlo,_que_hablando_el_lenguaje_que_mejor_entiendes")
+
+
